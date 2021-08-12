@@ -49,7 +49,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-.figure {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -67,7 +67,7 @@ main {
 /*Renamed and combined classes that had the same attributes and deleted excess*/
 /*Changed class names to match HTML elements*/
 
-.article {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -77,11 +77,11 @@ main {
 }
 
 
-.article img {
+article img {
     max-height: 200px;
 }
 
-.article h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

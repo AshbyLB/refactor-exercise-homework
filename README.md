@@ -1,4 +1,4 @@
-# refactor-exercise-homework
+# SEO Refactor Excercise 
 [Link to LIVE site.](https://ashbylb.github.io/refactor-exercise-homework/)
 
 ## Table of Contents
