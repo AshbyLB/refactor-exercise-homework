@@ -15,6 +15,7 @@ To navigate within the page, feel free to use the hyperlinks in the navigation b
 
 ## Screenshot
 Below is a screenshot of the page as it is now. 
+
 ![me](assets\images\screenshot.png)
 
 ## Languages
