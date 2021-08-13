@@ -7,6 +7,14 @@
 a {
     color: #ffffff;
     text-decoration: none;
+    padding: 8px;
+    display: inline-block;
+}
+a:hover {
+    text-decoration: underline;
+    color: #2a607c;
+    background-color: #ffffff;;
+}
 }
 
 p {
@@ -34,7 +42,7 @@ header h1 .seo {
 }
 
 header nav {
-    padding-top: 15px;
+    padding-top: 8px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
